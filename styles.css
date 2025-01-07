@@ -1,0 +1,78 @@
+
+li, p, h1, h3
+{
+    font-family: Verdana;
+}
+#course-list
+{
+    list-style-type: lower-greek;
+}
+
+#backend-languages
+{
+
+    list-style-type: lower-roman;
+
+}
+
+li, p
+{
+
+    color: blue;
+
+}
+
+#react-lang, #python-lang
+{
+
+    color: red;
+
+}
+
+.front-end-lang
+{
+
+    color: brown;
+    font-style: italic;
+    background-color: bisque;
+
+}
+
+.text-design
+{
+
+text-decoration-line: line-through;
+
+}
+
+.link
+{
+    text-decoration: dotted;
+    color: black;
+    
+}
+
+.nav-bar ul
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    list-style-type: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+
+}
+
+.nav-items
+{
+    text-decoration: none;
+    color: blueviolet;
+}
+
+.nav-display
+
+{
+  display: inline;
+  width: 150px;
+
+}
